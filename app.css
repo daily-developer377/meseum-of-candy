@@ -29,3 +29,18 @@ body{
         font-size: 3em;
     }
 }
+.blurb h2{
+    color: #ea1c2c;
+    font-weight: 100;
+    font-size: 2.5rem;
+
+}
+.blurb p{
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+.sec2{
+    margin-top: 100px;
+}
